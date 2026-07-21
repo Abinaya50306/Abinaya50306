@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello 👋, I'm Abinaya P
 
-<!--
-**Abinaya50306/Abinaya50306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science and Business Systems Student
 
-Here are some ideas to get you started:
+> "Learning today, building tomorrow."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+- 🎓 B.Tech CSBS Student
+- 💻 Front-End Developer
+- ☕ Java Programmer
+- 🐍 Python Enthusiast
+- 🗄️ MySQL
+- 🤖 Interested in AI & Machine Learning
+
+---
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- MySQL
+- ServiceNow
+
+---
+
+## 📌 Projects
+
+- 🏥 Hospital Management System
+- 🩸 Blood Donation Management System
+- 🌾 Smart argriculture Adviser
+- 🎫  ServiceNow Project
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/abinaya-p
+- Email: abinayamalu2006@gmail.com
